@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Currently learning Laravel, React <br>👨‍💻 Working on project Surya-Artisans<br> 🔧 Tech Stack: Bootstrap, Html, Laravel, MySQL, TailwindCSS<br> 📫 Reach me: sonyt4153@gmail.com | https://www.linkedin.com/in/sony-tamang-3bb187339/ 
+<p align="left">👨‍💻 Working on project Surya-Artisans<br> 🔧 Tech Stack: Bootstrap, Html,JavaScript, Php, Laravel, MySQL, TailwindCSS<br> 📫 Reach me: sonyt4153@gmail.com | https://www.linkedin.com/in/sony-tamang-3bb187339/ 
  </p>
 
 ###
@@ -33,6 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+
 </div>
 
 ###
