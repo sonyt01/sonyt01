@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Currently learning Laravel, React, and AI integration <br>👨‍💻 Building project Surya-Artisans<br> 🔧 Tech Stack: Spring Boot, React, Laravel, MySQL, TailwindCSS<br>- 📫 Reach me: [Email](sonyt4153@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sony-tamang-3bb187339/) 
+<p align="left">🌱 Currently learning Laravel, React, and AI integration <br>👨‍💻 Building project Surya-Artisans<br> 🔧 Tech Stack: Spring Boot, React, Laravel, MySQL, TailwindCSS<br> 📫 Reach me: sonyt4153@gmail.com | https://www.linkedin.com/in/sony-tamang-3bb187339/ 
  </p>
 
 ###
@@ -32,6 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonyt01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
