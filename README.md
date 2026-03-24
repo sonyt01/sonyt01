@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hie 👋</h1>
 
 ###
 
@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🌱 Currently learning Laravel, React, and AI integration <br>👨‍💻 Building projects Surya-Artisans<br> 🔧 Tech Stack: **Java, Spring Boot, React, Laravel, MySQL, TailwindCSS, Git/GitHub*<br>- 📫 Reach me: [Email](sonyt4153@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sony-tamang-3bb187339/) 
+ </p>
 
 ###
 
@@ -31,5 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+
 
 ###
