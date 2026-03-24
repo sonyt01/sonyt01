@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sony Tamang and I'm an IT student.</p>
+<p align="left">My name is Sony Tamang and studying IT.</p>
 
 ###
 
@@ -10,12 +10,12 @@
 
 ###
 
-<p align="left">👨‍💻 Working on project Surya-Artisans<br> 🔧 Tech Stack: Bootstrap, Html,JavaScript, Php, Laravel, MySQL, TailwindCSS<br> 📫 Reach me: sonyt4153@gmail.com | https://www.linkedin.com/in/sony-tamang-3bb187339/ 
+<p align="left">🔍 Like to explore new thing.<br>🎬 "Life is a journey of learning, growing, and becoming better every day." <br> 📫 Reach me: sonyt4153@gmail.com | https://www.linkedin.com/in/sony-tamang-3bb187339/ 
  </p>
 
 ###
 
-<h2 align="left">Tools</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
