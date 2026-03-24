@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Currently learning Laravel, React <br>👨‍💻 Working on project Surya-Artisans<br> 🔧 Tech Stack: Bootstrap, Html, React, Laravel, MySQL, TailwindCSS<br> 📫 Reach me: sonyt4153@gmail.com | https://www.linkedin.com/in/sony-tamang-3bb187339/ 
+<p align="left">🌱 Currently learning Laravel, React <br>👨‍💻 Working on project Surya-Artisans<br> 🔧 Tech Stack: Bootstrap, Html, Laravel, MySQL, TailwindCSS<br> 📫 Reach me: sonyt4153@gmail.com | https://www.linkedin.com/in/sony-tamang-3bb187339/ 
  </p>
 
 ###
