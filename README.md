@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔍 Like to explore new thing.<br>🎬 "Life is a journey of learning, growing, and becoming better every day." <br> 📫 Reach me: sonyt4153@gmail.com | https://www.linkedin.com/in/sony-tamang-3bb187339/ 
+<p align="left">🔍 Like to explore new thing.<br>🎬 Life is a journey of learning, growing, and becoming better every day.<br> 📫 Reach me: sonyt4153@gmail.com | https://www.linkedin.com/in/sony-tamang-3bb187339/ 
  </p>
 
 ###
